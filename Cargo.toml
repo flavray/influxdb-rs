@@ -1,0 +1,8 @@
+[package]
+name = "influxdb"
+version = "0.1.0"
+authors = ["Flavien Raynaud <flavien.raynaud@gmail.com>"]
+
+[dependencies]
+hyper = "0.10.10"
+url = "1.0.0"
